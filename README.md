@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HerveSV
-<!--- - 👀 I’m interested in OOP, lower high level languages, higher high level languages, graphics programming, video game programming, video games --->
+- 👋 Hi, I’m @HerveSV <!--- - 👀 I’m interested in OOP, lower high level languages, higher high level languages, graphics programming, video game programming, video games --->
 - 🌱 I’m currently learning TypeScript for use with the Electron framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: herve.schmitveiler@icloud.com
