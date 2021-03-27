@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HerveSV 
 - 🌱 I’m currently learning TypeScript for use with the Electron framework
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: herve.schmitveiler@icloud.com
 
 <!---
