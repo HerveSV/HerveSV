@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HerveSV 
 - 🌱 I’m currently learning TypeScript for use with the Electron framework
-- 📫 How to reach me: herve.schmitveiler@icloud.com
+- 📫 How to reach me: herve.sv3@outlook.com
 
 <!---
 HerveSV/HerveSV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
