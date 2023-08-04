@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HerveSV 
-- 🌱 I’m working on a personal gravity simulator project
+- 🌱 I'm plotting things
 - 📫 How to reach me: herve.sv3@outlook.com
 
 <!---
